@@ -16,3 +16,5 @@ A player controller for shoot 'em up projects in Unity.
 Add the following line to your `manifest.json` found in the "Packages" folder
 
 `"com.softboiledgames.shmupcontroller": "git@github.com:SoftBoiledGames/ShmupController.git"`
+
+Graphics by <https://kenney.nl/>

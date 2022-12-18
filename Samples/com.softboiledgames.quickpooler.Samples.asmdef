@@ -1,0 +1,15 @@
+{
+    "name": "com.softboiledgames.quickpooler.Samples",
+    "references": [
+        "GUID:4e9159d17921d3745b152b79d0794b8c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
