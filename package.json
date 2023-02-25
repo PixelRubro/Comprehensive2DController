@@ -1,11 +1,11 @@
 {
-  "name": "com.softboiledgames.shmupcontroller",
-  "displayName": "Shmup Controller",
-  "description": "A player controller for shoot 'em up projects in Unity.",
+  "name": "com.pixelsparkstudio.comprehensive2dcontroller",
+  "displayName": "Comprehensive 2D Controller",
+  "description": "A player controller for 2D games made in Unity.",
   "version": "0.0.1",
   "unity": "2019.4",
   "license": "MIT",
   "author": {
-    "name": "Soft Boiled Games"
+    "name": "Pixel Spark Studio"
   }
 }

@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace SoftBoiledGames.Shmup.Samples
 {
-    [RequireComponent(typeof(ShmupController))]
+    // [RequireComponent(typeof(ShmupController))]
     public class KeyboardInput : MonoBehaviour
     {
         #region Actions
@@ -13,7 +13,7 @@ namespace SoftBoiledGames.Shmup.Samples
 
         #region Non-serialized fields
 
-        private ShmupController _controller;
+        // private ShmupController _controller;
 
         private float _verticalInput;
 
@@ -28,7 +28,7 @@ namespace SoftBoiledGames.Shmup.Samples
 
         private void Awake()
         {
-            _controller = GetComponent<ShmupController>();
+            // _controller = GetComponent<ShmupController>();
         }
 
         private void Update()
@@ -62,7 +62,7 @@ namespace SoftBoiledGames.Shmup.Samples
 
         private void FixedUpdate()
         {
-            _controller.Move(new Vector2(_horizontalInput, _verticalInput));
+            // _controller.Move(new Vector2(_horizontalInput, _verticalInput));
         }
 
         #endregion

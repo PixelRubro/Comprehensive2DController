@@ -1,0 +1,15 @@
+{
+    "name": "com.softboiledgames.shmupcontroller.Runtime",
+    "references": [
+        "GUID:5e7306e0d19a33c44adc4b93787b7724"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

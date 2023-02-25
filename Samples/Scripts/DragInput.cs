@@ -15,7 +15,7 @@ namespace SoftBoiledGames.Shmup.Samples
 
         private Camera _mainCamera;
 
-        private ShmupController _controller;
+        // private ShmupController _controller;
 
         private Transform _transform;
 
@@ -31,7 +31,7 @@ namespace SoftBoiledGames.Shmup.Samples
 
         private void Awake()
         {
-            _controller = GetComponent<ShmupController>();
+            // _controller = GetComponent<ShmupController>();
             _transform = transform;
         }
 
@@ -47,7 +47,7 @@ namespace SoftBoiledGames.Shmup.Samples
             if (Vector2.Distance(mouseWorldPosition, _transform.position) > MinimumDistanceToCursor)
             {
                 var directionToMouse = mouseWorldPosition - _transform.position;
-                _controller.Move(directionToMouse);
+                // _controller.Move(directionToMouse);
             }
         }
         
