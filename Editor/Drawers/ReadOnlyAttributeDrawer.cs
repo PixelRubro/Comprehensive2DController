@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace PixelSpark.Comprehensive2DController.InspectorAttributes
+namespace VermillionVanguard.Comprehensive2DController.InspectorAttributes
 {
     [CustomPropertyDrawer(typeof(ReadOnlyAttribute))]
     public class ReadOnlyAttributeDrawer : BasePropertyDrawer

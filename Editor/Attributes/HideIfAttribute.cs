@@ -1,4 +1,4 @@
-namespace PixelSpark.Comprehensive2DController.InspectorAttributes
+namespace VermillionVanguard.Comprehensive2DController.InspectorAttributes
 {
     /// <summary>
     /// Hides property if provided condition is met.

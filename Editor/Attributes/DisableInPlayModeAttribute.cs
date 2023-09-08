@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PixelSpark.Comprehensive2DController.InspectorAttributes
+namespace VermillionVanguard.Comprehensive2DController.InspectorAttributes
 {
     /// <summary>
     /// Make the field read-only when the editor is in play mode.

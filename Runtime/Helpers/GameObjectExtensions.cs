@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace PixelSpark.Comprehensive2DController.Helpers
+namespace VermillionVanguard.Comprehensive2DController.Helpers
 {
     public static class GameObjectExtensions
     {

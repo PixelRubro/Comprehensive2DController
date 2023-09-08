@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SoftBoiledGames.Shmup.Samples
+namespace VermillionVanguard.Shmup.Samples
 {
     // [RequireComponent(typeof(ShmupController))]
     public class KeyboardInput : MonoBehaviour

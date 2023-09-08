@@ -5,7 +5,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace SoftBoiledGames.Comprehensive2DController.InspectorAttributes.Utilities
+namespace VermillionVanguard.Comprehensive2DController.InspectorAttributes.Utilities
 {
     public class HelperMethods 
     {

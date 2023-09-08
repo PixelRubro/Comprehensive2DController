@@ -5,9 +5,9 @@ using System.IO;
 using System.Reflection;
 using UnityEditor;
 using UnityEngine;
-using SoftBoiledGames.Comprehensive2DController.Extensions;
+using VermillionVanguard.Comprehensive2DController.Extensions;
 
-namespace PixelSpark.Comprehensive2DController.InspectorAttributes.Utilities
+namespace VermillionVanguard.Comprehensive2DController.InspectorAttributes.Utilities
 {
     public static class EditorUtil
     {

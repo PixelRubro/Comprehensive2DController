@@ -1,11 +1,11 @@
 {
-  "name": "com.pixelsparkstudio.comprehensive2dcontroller",
+  "name": "com.vermillionvanguard.comprehensive2dcontroller",
   "displayName": "Comprehensive 2D Controller",
   "description": "A player controller for 2D games made in Unity.",
   "version": "0.0.1",
   "unity": "2019.4",
   "license": "MIT",
   "author": {
-    "name": "Pixel Spark Studio"
+    "name": "Vermillion Vanguard Studio"
   }
 }

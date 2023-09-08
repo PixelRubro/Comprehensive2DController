@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace PixelSpark.Comprehensive2DController.InspectorAttributes
+namespace VermillionVanguard.Comprehensive2DController.InspectorAttributes
 {
     [CustomPropertyDrawer(typeof(ShowInPlayModeAttribute))]
     public class ShowInPlayModeAttributeDrawer : BasePropertyDrawer

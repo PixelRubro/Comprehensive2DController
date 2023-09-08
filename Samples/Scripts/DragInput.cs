@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SoftBoiledGames.Shmup.Samples
+namespace VermillionVanguard.Shmup.Samples
 {
     [RequireComponent(typeof(Collider2D))]
     public class DragInput : MonoBehaviour

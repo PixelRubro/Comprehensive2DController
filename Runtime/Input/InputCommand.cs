@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace PixelSpark.Comprehensive2DController.InputReading
+namespace VermillionVanguard.Comprehensive2DController.InputReading
 {
     public enum EInputState
     {

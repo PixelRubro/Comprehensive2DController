@@ -1,7 +1,7 @@
-using PixelSpark.Comprehensive2DController.Direction;
+using VermillionVanguard.Comprehensive2DController.Direction;
 using UnityEngine;
 
-namespace PixelSpark.Comprehensive2DController.Helpers
+namespace VermillionVanguard.Comprehensive2DController.Helpers
 {
     public class RaycastHelper
     {

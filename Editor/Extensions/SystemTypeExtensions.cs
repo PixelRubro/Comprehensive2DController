@@ -1,6 +1,6 @@
 using System;
 
-namespace SoftBoiledGames.Comprehensive2DController.Extensions
+namespace VermillionVanguard.Comprehensive2DController.Extensions
 {
     public static class SystemTypeExtensions 
     {

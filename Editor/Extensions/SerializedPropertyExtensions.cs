@@ -2,12 +2,12 @@ using UnityEditor;
 using System;
 using System.Linq;
 using System.Reflection;
-using SoftBoiledGames.Comprehensive2DController.InspectorAttributes;
-using SoftBoiledGames.Comprehensive2DController.InspectorAttributes.Utilities;
+using VermillionVanguard.Comprehensive2DController.InspectorAttributes;
+using VermillionVanguard.Comprehensive2DController.InspectorAttributes.Utilities;
 
 #if UNITY_EDITOR
 
-namespace SoftBoiledGames.Comprehensive2DController.Extensions
+namespace VermillionVanguard.Comprehensive2DController.Extensions
 {
     public static class SerializedPropertyExtensions
     {

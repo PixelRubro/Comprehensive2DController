@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace PixelSpark.Comprehensive2DController.Direction
+namespace VermillionVanguard.Comprehensive2DController.Direction
 {
     public enum EDirection
     {

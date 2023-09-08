@@ -4,7 +4,7 @@ using UnityEngine;
 
 using System;
 
-namespace PixelSpark.Comprehensive2DController.InspectorAttributes
+namespace VermillionVanguard.Comprehensive2DController.InspectorAttributes
 {
     /// <summary>
     /// Show the field only if it is in Play Mode.

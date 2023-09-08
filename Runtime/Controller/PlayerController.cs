@@ -1,9 +1,9 @@
 ﻿using System;
-using PixelSpark.Comprehensive2DController.InputReading;
-using PixelSpark.Comprehensive2DController.InspectorAttributes;
+using VermillionVanguard.Comprehensive2DController.InputReading;
+using VermillionVanguard.Comprehensive2DController.InspectorAttributes;
 using UnityEngine;
 
-namespace PixelSpark.Comprehensive2DController.Controller
+namespace VermillionVanguard.Comprehensive2DController.Controller
 {
     public abstract class PlayerController : MonoBehaviour
     {

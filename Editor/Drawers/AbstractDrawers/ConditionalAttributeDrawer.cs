@@ -1,9 +1,9 @@
 ﻿using UnityEditor;
 using UnityEngine;
 using System.Reflection;
-using SoftBoiledGames.Comprehensive2DController.Extensions;
+using VermillionVanguard.Comprehensive2DController.Extensions;
 
-namespace PixelSpark.Comprehensive2DController.InspectorAttributes
+namespace VermillionVanguard.Comprehensive2DController.InspectorAttributes
 {
     public abstract class ConditionalAttributeDrawer : BasePropertyDrawer
     {

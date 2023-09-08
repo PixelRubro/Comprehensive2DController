@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using PixelSpark.Comprehensive2DController.Controller;
+using VermillionVanguard.Comprehensive2DController.Controller;
 using UnityEngine;
 
-namespace PixelSpark.Comprehensive2DController.InputReading
+namespace VermillionVanguard.Comprehensive2DController.InputReading
 {
     public class OldInputSystemReader : MonoBehaviour
     {
